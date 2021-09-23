@@ -3,6 +3,7 @@
 **example of bold**
 *example of italics*
 
-Alt-H1 xtra fun read me heading
-======
+xtra fun read me heading
+====== 
+
 
